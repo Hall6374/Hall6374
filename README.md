@@ -1,5 +1,7 @@
-<a href="https://kaicolab.vercel.app/Hall6374/#caeda82db093f485"><img src="readme/card.svg?v=1793619458" alt="" width="1600" /></a>
+<div align="center">
 
-Building small tools and experiments, and this is where it shows up.
+<a href="https://dataannotation.vercel.app/Hall6374/#caeda82db093f485">
+  <img src="https://raw.githubusercontent.com/Hall6374/Hall6374/main/readme/card-1793884491.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-[Read the collaboration proposal →](https://kaicolab.vercel.app/Hall6374/#caeda82db093f485)
+</div>
